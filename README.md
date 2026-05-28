@@ -1,4 +1,11 @@
 # 🍅 专注番茄钟 (Focus Pomodoro Timer)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange" />
+  <img src="https://img.shields.io/badge/CSS-3-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-green" />
+  <img src="https://img.shields.io/badge/License-Apache_2.0-yellow" />
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+</p>
 ## 📖 项目简介 / Project Introduction
 ### 中文
 这是一个纯前端实现的番茄工作法计时器，旨在帮助用户提升专注力和工作效率。项目完全基于原生 HTML、CSS 和 JavaScript 构建，无需任何第三方依赖，可直接在浏览器中运行。

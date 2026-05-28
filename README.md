@@ -1,4 +1,7 @@
 # 🍅 专注番茄钟 (Focus Pomodoro Timer)
+
+![项目介绍图片](/project.jpg)
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange" />
   <img src="https://img.shields.io/badge/CSS-3-blue" />

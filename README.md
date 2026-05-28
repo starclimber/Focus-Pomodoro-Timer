@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/CSS-3-blue" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-green" />
   <img src="https://img.shields.io/badge/License-Apache_2.0-yellow" />
+  <img src="https://img.shields.io/github/stars/DXZ23456/Focus-Pomodoro-Timer" alt="GitHub Stars">
   <img alt="Static Badge" src="https://img.shields.io/badge/good-red">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
 </p>

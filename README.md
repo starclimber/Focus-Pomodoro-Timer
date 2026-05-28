@@ -1,6 +1,6 @@
 # 🍅 专注番茄钟 (Focus Pomodoro Timer)
 <p align="center">
-  <img src="https://mc.dxz666.cc.cd/mood.png" alt="项目介绍图片" style="max-width: 100%; height: auto;" />
+  <img src="https://mc.dxz666.cc.cd/mood.png" alt="项目图片" style="max-width: 100%; height: auto;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange" />
